@@ -19,3 +19,5 @@ chat_log.json
 # OS
 .DS_Store
 Thumbs.db
+.gitnexus
+.claude/
